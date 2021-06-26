@@ -35,6 +35,8 @@ __Learn about HTML elements and structure, the building blocks of websites.__
   8.	Whitespace between HTML elements helps make code easier to read while not changing how elements appear in the browser.
   9.	Indentation also helps make code easier to read. It makes parent-child relationships visible.
   10.	Comments are written in HTML using the following syntax: <!-- comment -->.
+ 
+  
   
 ## HTML Tables
 __Learned how to create a table, add data to it, and section the table into smaller parts that make it easier to read.__
@@ -58,6 +60,36 @@ __Learned how to create a table, add data to it, and section the table into smal
   9.	A table’s body is created with the ``<tbody>`` element.
   10.	A table’s footer is created with the ``<tfoot>`` element.
   11.	All the CSS properties you learned about in this course can be applied to tables and their data.
+
+  
+
+## HTML Forms
+__Learned how to create a form.__
+
+  ### [Cheat Sheet](https://www.codecademy.com/learn/learn-html/modules/learn-html-forms/cheatsheet)
+  
+  ### Tasks:
+  - [x] Created a simple webpage about [Burger Order Form](https://github.com/kai-ion/Learn-HTML-CodeAcademy/tree/master/Burger%20Order%20Form). 
+  A preview can be seen [here](https://github.com/kai-ion/Learn-HTML-CodeAcademy/blob/master/Burger%20Order%20Form/index.html)
+  - [ ] Created a Wine Festival Schedule
+
+  ### Tables
+  1.	The purpose of a <form> is to allow users to input information and send it.
+  2.	The <form>‘s action attribute determines where the form’s information goes.
+  3.	The <form>‘s method attribute determines how the information is sent and processed.
+  4.	To add fields for users to input information we use the <input> element and set the type attribute to a field of our choosing:
+  a.	Setting type to "text" creates a single row field for text input.
+  b.	Setting type to "password" creates a single row field that censors text input.
+  c.	Setting type to "number" creates a single row field for number input.
+  d.	Setting type to "range" creates a slider to select from a range of numbers.
+  e.	Setting type to "checkbox" creates a single checkbox which can be paired with other checkboxes.
+  f.	Setting type to "radio" creates a radio button that can be paired with other radio buttons.
+  g.	Setting type to "list" will pair the <input> with a <datalist> element if the id of both are the same.
+  h.	Setting type to "submit" creates a submit button.
+  5.	A <select> element is populated with <option> elements and renders a dropdown list selection.
+  6.	A <datalist> element is populated with <option> elements and works with an <input> to search through choices.
+  7.	A <textarea> element is a text input field that has a customizable area.
+  8.	When a <form> is submitted, the name of the fields that accept input and the value of those fields are sent as name=value pairs.
 
 
 
