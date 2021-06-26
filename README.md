@@ -78,15 +78,14 @@ __Learned how to create a form.__
   2.	The `<form>`‘s action attribute determines where the form’s information goes.
   3.	The `<form>`‘s method attribute determines how the information is sent and processed.
   4.	To add fields for users to input information we use the `<input>` element and set the type attribute to a field of our choosing:
-  
-      - Setting type to "text" creates a single row field for text input.
-      -	Setting type to "password" creates a single row field that censors text input.
-      -	Setting type to "number" creates a single row field for number input.
-      -	Setting type to "range" creates a slider to select from a range of numbers.
-      -	Setting type to "checkbox" creates a single checkbox which can be paired with other checkboxes.
-      -	Setting type to "radio" creates a radio button that can be paired with other radio buttons.
-      -	Setting type to "list" will pair the `<input>` with a `<datalist>` element if the id of both are the same.
-      -	Setting type to "submit" creates a submit button.
+  -	Setting type to "text" creates a single row field for text input.
+  -	Setting type to "password" creates a single row field that censors text input.
+  -	Setting type to "number" creates a single row field for number input.
+  -	Setting type to "range" creates a slider to select from a range of numbers.
+  -	Setting type to "checkbox" creates a single checkbox which can be paired with other checkboxes.
+  -	Setting type to "radio" creates a radio button that can be paired with other radio buttons.
+  -	Setting type to "list" will pair the `<input>` with a `<datalist>` element if the id of both are the same.
+  -	Setting type to "submit" creates a submit button.
   5.	A `<select>` element is populated with `<option>` elements and renders a dropdown list selection.
   6.	A `<datalist>` element is populated with `<option>` elements and works with an `<input>` to search through choices.
   7.	A `<textarea>` element is a text input field that has a customizable area.
