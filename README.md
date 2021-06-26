@@ -19,6 +19,7 @@ A preview can be seen [here](https://htmlpreview.github.io/?https://github.com/k
   - Line breaks are created with the <br> tag.
   - Ordered lists (<ol>) are numbered and unordered lists (<ul>) are bulleted.
   - Images (<img>) and videos (<video>) can be added by linking to an existing source.
+  
   ### 2. HTML Document Standards
   #### Lesson:
   - The <!DOCTYPE html> declaration should always be the first line of code in your HTML files. This lets the browser know what version of HTML to expect.
