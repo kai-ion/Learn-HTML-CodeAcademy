@@ -71,9 +71,9 @@ __Learned how to create a form.__
   ### Tasks:
   - [x] Created a simple webpage about [Burger Order Form](https://github.com/kai-ion/Learn-HTML-CodeAcademy/tree/master/Burger%20Order%20Form). 
   A preview can be seen [here](https://htmlpreview.github.io/?https://github.com/kai-ion/Learn-HTML-CodeAcademy/blob/master/Burger%20Order%20Form/index.html)
-  - [ ] Created a Wine Festival Schedule
+  - [ ] Created a Form A Story
 
-  ### Tables
+  ### Forms
   1.	The purpose of a <form> is to allow users to input information and send it.
   2.	The `<form>`‘s action attribute determines where the form’s information goes.
   3.	The `<form>`‘s method attribute determines how the information is sent and processed.
