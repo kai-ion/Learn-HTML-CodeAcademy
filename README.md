@@ -32,3 +32,5 @@ A preview can be seen [here](https://htmlpreview.github.io/?https://github.com/k
   - Whitespace between HTML elements helps make code easier to read while not changing how elements appear in the browser.
   - Indentation also helps make code easier to read. It makes parent-child relationships visible.
   - Comments are written in HTML using the following syntax: <!-- comment -->.
+
+  ### [Cheat Sheet](https://www.codecademy.com/learn/learn-html/modules/learn-html-elements/cheatsheet)
