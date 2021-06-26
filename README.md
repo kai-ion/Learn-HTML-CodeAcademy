@@ -8,8 +8,9 @@ __Learn about HTML elements and structure, the building blocks of websites.__
   ### [Cheat Sheet](https://www.codecademy.com/learn/learn-html/modules/learn-html-elements/cheatsheet)
   
   ### Tasks:
-- [ ] Created a simple webpage about [Brown Bears](https://github.com/kai-ion/Learn-HTML-CodeAcademy/tree/master/Brown%20Bears). 
+- [x] Created a simple webpage about [Brown Bears](https://github.com/kai-ion/Learn-HTML-CodeAcademy/tree/master/Brown%20Bears). 
 A preview can be seen [here](https://htmlpreview.github.io/?https://github.com/kai-ion/Learn-HTML-CodeAcademy/blob/master/Brown%20Bears/index.html)
+- [] Created a Fashion Blog
 
   ### 1. Introduction to HTML
   - HTML stands for HyperText Markup Language and is used to create the structure and content of a webpage.
