@@ -5,6 +5,8 @@ My Progress On learning HTML from CodeAcademy
 ## Elements and Structure
 __Learn about HTML elements and structure, the building blocks of websites.__
 
+  ### [Cheat Sheet](https://www.codecademy.com/learn/learn-html/modules/learn-html-elements/cheatsheet)
+
 Created a simple webpage about [Brown Bears](https://github.com/kai-ion/Learn-HTML-CodeAcademy/tree/master/Brown%20Bears)
 
 A preview can be seen [here](https://htmlpreview.github.io/?https://github.com/kai-ion/Learn-HTML-CodeAcademy/blob/master/Brown%20Bears/index.html)
@@ -33,4 +35,3 @@ A preview can be seen [here](https://htmlpreview.github.io/?https://github.com/k
   - Indentation also helps make code easier to read. It makes parent-child relationships visible.
   - Comments are written in HTML using the following syntax: <!-- comment -->.
 
-  ### [Cheat Sheet](https://www.codecademy.com/learn/learn-html/modules/learn-html-elements/cheatsheet)
