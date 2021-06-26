@@ -2,7 +2,7 @@
 My Progress On learning HTML from CodeAcademy
 
 
-## Elements and Structure
+## HTML Elements and Structure
 __Learn about HTML elements and structure, the building blocks of websites.__
 
   ### [Cheat Sheet](https://www.codecademy.com/learn/learn-html/modules/learn-html-elements/cheatsheet)
