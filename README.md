@@ -17,8 +17,8 @@ A preview can be seen [here](https://htmlpreview.github.io/?https://github.com/k
   - ``<p>``, ``<span>`` and ``<div>`` tags specify text or blocks.
   - The ``<em>`` and ``<strong>`` tags are used to emphasize text.
   - Line breaks are created with the ``<br>`` tag.
-  - Ordered lists (<ol>) are numbered and unordered lists (<ul>) are bulleted.
-  - Images (<img>) and videos (<video>) can be added by linking to an existing source.
+  - Ordered lists (``<ol>``) are numbered and unordered lists (``<ul>``) are bulleted.
+  - Images (``<img>``) and videos (``<video>``) can be added by linking to an existing source.
   
   ### 2. HTML Document Standards
   #### Lesson:
