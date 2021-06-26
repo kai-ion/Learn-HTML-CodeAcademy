@@ -78,7 +78,8 @@ __Learned how to create a form.__
   2.	The `<form>`‘s action attribute determines where the form’s information goes.
   3.	The `<form>`‘s method attribute determines how the information is sent and processed.
   4.	To add fields for users to input information we use the `<input>` element and set the type attribute to a field of our choosing:
-    - Setting type to "text" creates a single row field for text input.
+    
+  - Setting type to "text" creates a single row field for text input.
     -	Setting type to "password" creates a single row field that censors text input.
     -	Setting type to "number" creates a single row field for number input.
     -	Setting type to "range" creates a slider to select from a range of numbers.
