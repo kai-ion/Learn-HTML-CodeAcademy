@@ -45,7 +45,7 @@ __Learned how to create a table, add data to it, and section the table into smal
   
   ### Tasks:
   - [x] Created a simple webpage about [Shipping Table](https://github.com/kai-ion/Learn-HTML-CodeAcademy/tree/master/Shipping%20Table). 
-  A preview can be seen [here](https://github.com/kai-ion/Learn-HTML-CodeAcademy/blob/master/Shipping%20Table/index.html)
+  A preview can be seen [here](https://htmlpreview.github.io/?https://github.com/kai-ion/Learn-HTML-CodeAcademy/blob/master/Shipping%20Table/index.html)
   - [ ] Created a Wine Festival Schedule
 
   ### Tables
@@ -70,26 +70,26 @@ __Learned how to create a form.__
   
   ### Tasks:
   - [x] Created a simple webpage about [Burger Order Form](https://github.com/kai-ion/Learn-HTML-CodeAcademy/tree/master/Burger%20Order%20Form). 
-  A preview can be seen [here](https://github.com/kai-ion/Learn-HTML-CodeAcademy/blob/master/Burger%20Order%20Form/index.html)
+  A preview can be seen [here](https://htmlpreview.github.io/?https://github.com/kai-ion/Learn-HTML-CodeAcademy/blob/master/Burger%20Order%20Form/index.html)
   - [ ] Created a Wine Festival Schedule
 
   ### Tables
   1.	The purpose of a <form> is to allow users to input information and send it.
-  2.	The <form>‘s action attribute determines where the form’s information goes.
-  3.	The <form>‘s method attribute determines how the information is sent and processed.
-  4.	To add fields for users to input information we use the <input> element and set the type attribute to a field of our choosing:
-  a.	Setting type to "text" creates a single row field for text input.
-  b.	Setting type to "password" creates a single row field that censors text input.
-  c.	Setting type to "number" creates a single row field for number input.
-  d.	Setting type to "range" creates a slider to select from a range of numbers.
-  e.	Setting type to "checkbox" creates a single checkbox which can be paired with other checkboxes.
-  f.	Setting type to "radio" creates a radio button that can be paired with other radio buttons.
-  g.	Setting type to "list" will pair the <input> with a <datalist> element if the id of both are the same.
-  h.	Setting type to "submit" creates a submit button.
-  5.	A <select> element is populated with <option> elements and renders a dropdown list selection.
-  6.	A <datalist> element is populated with <option> elements and works with an <input> to search through choices.
-  7.	A <textarea> element is a text input field that has a customizable area.
-  8.	When a <form> is submitted, the name of the fields that accept input and the value of those fields are sent as name=value pairs.
+  2.	The `<form>`‘s action attribute determines where the form’s information goes.
+  3.	The `<form>`‘s method attribute determines how the information is sent and processed.
+  4.	To add fields for users to input information we use the `<input>` element and set the type attribute to a field of our choosing:
+    -	Setting type to "`text`" creates a single row field for text input.
+    -	Setting type to "password" creates a single row field that censors text input.
+    -	Setting type to "number" creates a single row field for number input.
+    -	Setting type to "range" creates a slider to select from a range of numbers.
+    -	Setting type to "checkbox" creates a single checkbox which can be paired with other checkboxes.
+    -	Setting type to "radio" creates a radio button that can be paired with other radio buttons.
+    -	Setting type to "list" will pair the `<input>` with a `<datalist>` element if the id of both are the same.
+    -	Setting type to "submit" creates a submit button.
+  5.	A `<select>` element is populated with `<option>` elements and renders a dropdown list selection.
+  6.	A `<datalist>` element is populated with `<option>` elements and works with an `<input>` to search through choices.
+  7.	A `<textarea>` element is a text input field that has a customizable area.
+  8.	When a `<form>` is submitted, the name of the fields that accept input and the value of those fields are sent as name=value pairs.
 
 
 
