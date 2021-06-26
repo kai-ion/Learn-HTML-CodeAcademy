@@ -21,17 +21,17 @@ __Learn about HTML elements and structure, the building blocks of websites.__
   6.	``<p>``, ``<span>`` and ``<div>`` tags specify text or blocks.
   7.	The ``<em>`` and ``<strong>`` tags are used to emphasize text.
   8.	Line breaks are created with the ``<br>`` tag.
-  9.	Ordered lists (``<ol>``) are numbered and unordered lists (``<ul>``) are bulleted.
-  10.	Images (``<img>``) and videos (``<video>``) can be added by linking to an existing source.
+  9.	Ordered lists ``<ol>`` are numbered and unordered lists ``<ul>`` are bulleted.
+  10.	Images ``<img>`` and videos ``<video>`` can be added by linking to an existing source.
   
   ### HTML Document Standards
-  1.	The <!DOCTYPE html> declaration should always be the first line of code in your HTML files. This lets the browser know what version of HTML to expect.
-  2.	The <html> element will contain all of your HTML code.
-  3.	Information about the web page, like the title, belongs within the <head> of the page.
-  4.	You can add a title to your web page by using the <title> element, inside of the head.
+  1.	The ``<!DOCTYPE html>`` declaration should always be the first line of code in your HTML files. This lets the browser know what version of HTML to expect.
+  2.	The ``<html>`` element will contain all of your HTML code.
+  3.	Information about the web page, like the title, belongs within the ``<head>`` of the page.
+  4.	You can add a title to your web page by using the ``<title>`` element, inside of the head.
   5.	A webpage’s title appears in a browser’s tab.
-  6.	Anchor tags (<a>) are used to link to internal pages, external pages or content on the same page.
-  7.	You can create sections on a webpage and jump to them using <a> tags and adding ids to the elements you wish to jump to.
+  6.	Anchor tags ``<a>`` are used to link to internal pages, external pages or content on the same page.
+  7.	You can create sections on a webpage and jump to them using ``<a>`` tags and adding ids to the elements you wish to jump to.
   8.	Whitespace between HTML elements helps make code easier to read while not changing how elements appear in the browser.
   9.	Indentation also helps make code easier to read. It makes parent-child relationships visible.
   10.	Comments are written in HTML using the following syntax: <!-- comment -->.
