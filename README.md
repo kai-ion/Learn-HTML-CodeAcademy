@@ -6,10 +6,11 @@ My Progress On learning HTML from CodeAcademy
 __Learn about HTML elements and structure, the building blocks of websites.__
 
   ### [Cheat Sheet](https://www.codecademy.com/learn/learn-html/modules/learn-html-elements/cheatsheet)
-
-Created a simple webpage about [Brown Bears](https://github.com/kai-ion/Learn-HTML-CodeAcademy/tree/master/Brown%20Bears)
-
+  
+  ### Tasks:
+- [x] Created a simple webpage about [Brown Bears](https://github.com/kai-ion/Learn-HTML-CodeAcademy/tree/master/Brown%20Bears)
 A preview can be seen [here](https://htmlpreview.github.io/?https://github.com/kai-ion/Learn-HTML-CodeAcademy/blob/master/Brown%20Bears/index.html)
+
   ### 1. Introduction to HTML
   - HTML stands for HyperText Markup Language and is used to create the structure and content of a webpage.
   - Most HTML elements contain opening and closing tags with raw text or other HTML tags between them.
@@ -23,7 +24,6 @@ A preview can be seen [here](https://htmlpreview.github.io/?https://github.com/k
   - Images (``<img>``) and videos (``<video>``) can be added by linking to an existing source.
   
   ### 2. HTML Document Standards
-  #### Lesson:
   - The <!DOCTYPE html> declaration should always be the first line of code in your HTML files. This lets the browser know what version of HTML to expect.
   - The <html> element will contain all of your HTML code.
   - Information about the web page, like the title, belongs within the <head> of the page.
