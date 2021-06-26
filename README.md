@@ -11,7 +11,7 @@ A preview can be seen [here](https://htmlpreview.github.io/?https://github.com/k
   ### 1. Introduction to HTML
 
   ### 2. HTML Document Standards
-    #### Lesson:
+  #### Lesson:
   - The <!DOCTYPE html> declaration should always be the first line of code in your HTML files. This lets the browser know what version of HTML to expect.
   - The <html> element will contain all of your HTML code.
   - Information about the web page, like the title, belongs within the <head> of the page.
