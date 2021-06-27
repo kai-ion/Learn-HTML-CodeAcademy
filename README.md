@@ -105,5 +105,26 @@ __Learned how to create a form.__
   7.	Assigning a regex to `pattern` matches the input to the provided regex.
   8.	If validations on a `<form>` do not pass, the user gets a message explaining why and the `<form>` cannot be submitted.
 
+## Semantic HTML
+  
+__Write clearer, more accessible HTML using Semantic HTML tags.__
+
+   ### [Cheat Sheet](https://www.codecademy.com/learn/learn-html/modules/learn-semantic-html/cheatsheet)
+  
+  ### Tasks:
+  - [x] Created a simple webpage about [Dog Fun Facts](https://github.com/kai-ion/Learn-HTML-CodeAcademy/tree/master/Fun%20Fact%20About%20Dogs). 
+  A preview can be seen [here](https://htmlpreview.github.io/?https://github.com/kai-ion/Learn-HTML-CodeAcademy/blob/master/Fun%20Fact%20About%20Dogs/index.html)
+  - [ ] New York City Blog
+
+  ### Forms
+  1.	Semantic HTML introduces meaning to a page through specific elements that provide context as to what is in between the tags.
+  2.	Semantic HTML is a modern standard and makes a website accessible for people who use screen readers to translate the webpage and improves your website’s SEO.
+  3.	`<header>`, `<nav>` , `<main>` and `<footer>` create the basic structure of the webpage.
+  4.	`<section>` defines elements in a document, such as chapters, headings, or any other area of the document with the same theme.
+  5.	`<article>` holds content that makes sense on its own such as articles, blogs, comments, etc.
+  6.	`<aside>` contains information that is related to the main content, but not required in order to understand the dominant information.
+  7.	`<figure>` encapsulates all types of media.
+  8.	`<figcaption>` is used to describe the media in `<figure>`.
+  9.	`<video>`, `<embed>`, and `<audio>` elements are used for media files.
 
 
