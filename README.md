@@ -71,6 +71,10 @@ __Learned how to create a form.__
   ### Tasks:
   - [x] Created a simple webpage about [Burger Order Form](https://github.com/kai-ion/Learn-HTML-CodeAcademy/tree/master/Burger%20Order%20Form). 
   A preview can be seen [here](https://htmlpreview.github.io/?https://github.com/kai-ion/Learn-HTML-CodeAcademy/blob/master/Burger%20Order%20Form/index.html)
+  - [x] Created a simple webpage [Number Guessing Form](https://github.com/kai-ion/Learn-HTML-CodeAcademy/tree/master/Number%20Guessing%20Form). 
+  A preview can be seen [here](https://htmlpreview.github.io/?https://github.com/kai-ion/Learn-HTML-CodeAcademy/blob/master/Number%20Guessing%20Form/index.html)
+  - [x] Created a simple webpage [Sign Up Form](https://github.com/kai-ion/Learn-HTML-CodeAcademy/tree/master/Sign%20Up%20Form). 
+  A preview can be seen [here](https://htmlpreview.github.io/?https://github.com/kai-ion/Learn-HTML-CodeAcademy/blob/master/Sign%20Up%20Form/inde.html)
   - [ ] Created a Form A Story
 
   ### Forms
@@ -90,5 +94,16 @@ __Learned how to create a form.__
   6.	A `<datalist>` element is populated with `<option>` elements and works with an `<input>` to search through choices.
   7.	A `<textarea>` element is a text input field that has a customizable area.
   8.	When a `<form>` is submitted, the name of the fields that accept input and the value of those fields are sent as name=value pairs.
+  
+  ### Form Validation
+  1.	Client-side validations happen in the browser before information is sent to a server.
+  2.	Adding the `required` attribute to an input related element will validate that the input field has information in it.
+  3.	Assigning a value to the `min` attribute of a number input element will validate an acceptable minimum value.
+  4.	Assigning a value to the `max` attribute of a number input element will validate an acceptable maximum value.
+  5.	Assigning a value to the `minlength` attribute of a text input element will validate an acceptable minimum number of characters.
+  6.	Assigning a value to the `maxlength` attribute of a text input element will validate an acceptable maximum number of characters.
+  7.	Assigning a regex to `pattern` matches the input to the provided regex.
+  8.	If validations on a `<form>` do not pass, the user gets a message explaining why and the `<form>` cannot be submitted.
+
 
 
