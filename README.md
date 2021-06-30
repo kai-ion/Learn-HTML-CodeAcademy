@@ -12,6 +12,11 @@ __Learn about HTML elements and structure, the building blocks of websites.__
   A preview can be seen [here](https://htmlpreview.github.io/?https://github.com/kai-ion/Learn-HTML-CodeAcademy/blob/master/Brown%20Bears/index.html)
   - [ ] Created a Fashion Blog
 
+  ### video
+  HTML Structure --- [Link to video](https://www.youtube.com/watch?v=uxmB8MlO3m8&ab_channel=Codecademy)
+  
+  HTML Doc Standards --- [Link to video](https://www.youtube.com/watch?v=B4tCt6elrU0&ab_channel=Codecademy)
+
   ### Introduction to HTML
   1.	HTML stands for HyperText Markup Language and is used to create the structure and content of a webpage.
   2.	Most HTML elements contain opening and closing tags with raw text or other HTML tags between them.
